@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'MajorMonoDisplay-Regular';
+  src: url('MajorMonoDisplay-Regular.ttf');
+}
+
+h1{
+  font-family: 'MajorMonoDisplay-Regular';
+}
