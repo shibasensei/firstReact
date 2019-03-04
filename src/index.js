@@ -4,14 +4,10 @@ import * as serviceWorker from './serviceWorker';
 
 import 'tachyons';
 import './index.css';
-import Card from './Card';
+import App from './App'
 
 ReactDOM.render(
-  <div>
-  <Card />
-  <Card />
-  <Card />
-  </div>
+  <App/>
   , document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
